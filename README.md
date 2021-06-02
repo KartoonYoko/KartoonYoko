@@ -1,2 +1,2 @@
 
-![](nezuko.png)
+![](nezuko.jpg)
